@@ -1,0 +1,7 @@
+$ cat .gitignore
+# Exclude ExerciseMaterial, because this is only to receive
+#  source code provided by the Pluralsight instructor.
+*ExerciseMaterial/
+
+
+
